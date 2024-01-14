@@ -1,0 +1,4 @@
+sizeof(int) = 4 bytes
+sizeof(char) = 1 byte
+sizeof(float) = 4 bytes
+sizeof(double) = 8 bytes
